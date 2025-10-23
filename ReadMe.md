@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Full-Stack Developer** with over **2 years of experience**, mainly focused on **backend development**.
+I'm a **Full-Stack Developer** with over **4 years of experience**, mainly focused on **backend development**.
 
 🔧 I work with:
 - **NestJS**, **Express**, and **Kotlin Spring Boot**
